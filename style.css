@@ -1,0 +1,45 @@
+html{
+    cursor: url(cursor2.cur), auto;
+}
+
+@font-face {
+    src: url("../fonts/BMJUA_ttf.ttf");
+    font-family: "jua"
+}
+
+body {            
+    background-image: url('../bg/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+  font-family: "jua";
+}
+
+h1 {
+    font-family: "jua";
+}
+
+a {
+    font-family: "jua";
+}
+
+#moveBtn {
+    position: absolute;
+    border: 1px solid black;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#moveBtn:hover {
+    color: white;
+    background: gray;
+}
+

@@ -1,0 +1,19 @@
+html{
+    cursor: url(cursor2.cur), auto;
+}
+@font-face {
+    src: url("/fonts/BMJUA_ttf.ttf");
+    font-family: "jua"
+}
+p {
+    font-family: "jua";
+}
+  
+h1 {
+      font-family: "jua";
+}
+  
+a {
+      font-family: "jua";
+}
+  

@@ -1,0 +1,19 @@
+html{
+    cursor: url(/gomtang/p/666.cur), auto;
+}
+@font-face {
+    src: url("/fonts/666.ttf");
+    font-family: "jua"
+}
+p {
+    font-family: "jua";
+}
+  
+h1 {
+      font-family: "jua";
+}
+  
+a {
+      font-family: "jua";
+}
+  
