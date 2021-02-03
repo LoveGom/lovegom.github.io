@@ -1,9 +1,12 @@
 html{
-    cursor: url(cursor2.cur), auto;
+    cursor: url(../cursor2.cur), auto;
 }
 @font-face {
     src: url("/fonts/BMJUA_ttf.ttf");
     font-family: "jua"
+}
+body {
+    text-align: center; 
 }
 p {
     font-family: "jua";
