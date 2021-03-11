@@ -22,7 +22,10 @@ p {
 h1 {
     font-family: "jua";
 }
-
+.text {
+    font-family: "jua";
+    color:rgb(255, 255, 255);font-size:40px;
+}
 a {
     font-family: "jua";
 }
